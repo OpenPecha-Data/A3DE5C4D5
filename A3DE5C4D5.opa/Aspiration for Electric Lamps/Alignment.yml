@@ -1,0 +1,22 @@
+segment_sources:
+  P42028603:
+    type: origin_type
+    relation: translation
+    language: en
+  P255114CD:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  61f902d4fb514d07be4b653fec8e8384:
+    P42028603: ba2a65eb14e74ae78087c39318c4f7a1
+    P255114CD: b427ac3ff09a4a35a1a3f43d38983d92
+  0bca88247ced4c6abd3deb9b5e359178:
+    P42028603: 7aff912ccca94fa8a63e8828882e1b06
+    P255114CD: dd7af5bda9d64d9f9ce0869d2576a36f
+  4615d0c64390468fa320d5d4b3d9d7c9:
+    P42028603: 0c16f9c4825a4954b2f44e3a695f2f82
+    P255114CD: 8222d714e62b47b3a68481eb2a70dd62
+  26a335b220174b928d955635fbe212ab:
+    P42028603: 75bda8e4b97e486ca6f6f8360eb7e41e
+    P255114CD: baeb9bf3bfa24fba924b3d3700344906
